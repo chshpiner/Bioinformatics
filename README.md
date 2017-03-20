@@ -1,6 +1,6 @@
 # bioinformatics
 Bioinformatic tools implemented in python.
-By Chana Shpiner
+By Chana Shpiner.
 Enjoy learning!
 
 The tools can be used in various fields.
